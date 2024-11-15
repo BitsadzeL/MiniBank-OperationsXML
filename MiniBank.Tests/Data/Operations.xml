@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Operations>
+  <Operation>
+    <Id>1</Id>
+    <AccountId>1</AccountId>
+    <CustomerId>1</CustomerId>
+    <Type>Credit</Type>
+    <Currency>GEL</Currency>
+    <Amount>1000</Amount>
+    <HappendAt>2024-11-14T21:53:38.9782534+04:00</HappendAt>
+  </Operation>
+  <Operation>
+    <Id>2</Id>
+    <AccountId>1</AccountId>
+    <CustomerId>1</CustomerId>
+    <Type>Debit</Type>
+    <Currency>GEL</Currency>
+    <Amount>7000</Amount>
+    <HappendAt>2024-11-14T21:58:33.8996467+04:00</HappendAt>
+  </Operation>
+  <Operation>
+    <Id>3</Id>
+    <AccountId>1</AccountId>
+    <CustomerId>1</CustomerId>
+    <Type>Credit</Type>
+    <Currency>GEL</Currency>
+    <Amount>1000</Amount>
+    <HappendAt>2024-11-15T23:26:59.5744037+04:00</HappendAt>
+  </Operation>
+  <Operation>
+    <Id>4</Id>
+    <AccountId>1</AccountId>
+    <CustomerId>1</CustomerId>
+    <Type>Debit</Type>
+    <Currency>GEL</Currency>
+    <Amount>712</Amount>
+    <HappendAt>2024-11-15T23:29:47.8021458+04:00</HappendAt>
+  </Operation>
+</Operations>
